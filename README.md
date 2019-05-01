@@ -4,7 +4,7 @@ The goal of this project is to explore a new normalization method called regular
 
 ## Repo Structure
 ### Data
-This folder contains classification results for corresponding loading files and summary statistics about classification results. Data of interest is contained in files ending in _summary.csv.
+This folder contains classification results for a merged 10K and 33K PBMC dataset from 10X Genomics. Data of interest is contained in files ending in _summary.csv.
 
 ### Scripts
 This folder contains python scripts for creating the figure of choice for the homework.
