@@ -27,4 +27,7 @@ chmod +x runMeForFigure.sh
 ./runMeForFigure.sh
 ```
 
+## Citations
+Christoph Hafemeister, Rahul Satija
+bioRxiv 576827; doi: https://doi.org/10.1101/576827
 
